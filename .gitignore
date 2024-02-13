@@ -1,0 +1,7 @@
+kernel/
+tests/
+runtime/
+sim/
+blackbox.rtlsim.cache
+blackbox.simx.cache
+third_party/ramulator
